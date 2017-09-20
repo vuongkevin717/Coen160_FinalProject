@@ -5,3 +5,7 @@ Project goal was to implement a simulator for a recycling company. There were tw
 The individual recycling machine (RCM) had the ability to accept items based on the type and return a specified amount of money. Each RCM had a certain weight limit it could hold and amount of money it could return. 
 
 The centralized machine (RMOS) controlled each individual machine allowing updating of each machines accepted items, clearing the weight, and adding more money. It could add and delete individual RCMs as well as maintained various usage statistics about the RCMs. 
+
+This project was completed with my partner, Chloe deGuzman.
+
+The GUI could be cleaned up, but the design and implementation are working as we intended.
